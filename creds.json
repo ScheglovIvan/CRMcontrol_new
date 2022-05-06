@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lunar-prism-347712",
+  "private_key_id": "b69357c8666b0d743ef064d80f60fadd77e02da5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC39nJfRNkPVtBc\njF6UEVmRS2H7v1F20hoQwr7v46VTmnSeB/tYcIFXoauLI1oCn5Ri5aP0meD4Cfb3\nrSb9HmEdZ4s0aievaoSAd2EpIzv8OOgJPuqtZzz1ySjMGiR4xutex3ji4pWDg023\nkM5au5i47ZWR79/afIvK6A665HgbE0CcdrN3zIxJdThIiJzln471wgMUh08l6Ym+\nGjmlppUpuAwMLa2/w3nrUm42bKablr23jUs76WgskZ/H2Mhhx7FoXJpeLP2bz/kH\nWA9fkIec8LX1jqMu9x1lVUFwsG1u1hz9qinUOETUCfzKohDeyIZ7/s6QLf1CK3vn\nsrK/o9V5AgMBAAECggEAHNKx/k/G85KOUGXU3r2uKyfkuQEzlhqap2Qf7u2bxnLV\nkToebS+pcE2+Fy2JiY4vvWQOEYG3oB1NkuZQDMog/K6vvp1gTOlzS76InF2vJRhU\ncLhpJBSgFkF3kS0KaFsAX0gBHolSVDnzKA756fjpF5ZwAB7Vk8G+VGMSBcHMuK8C\nOEggkobRCCKh82KCS7k251NuW/YBScm39tjn80fiezY5nDA9ipWUNg4TR7ja9vTZ\nz+tIw4P+iWrnUUvPRLqw7dJ4umcv1gtm5xiD3kNrhzOPbXYzDfM6Va/nX7Sk7XX5\nCi6pQnCrW7XgiueQ1f9fjfv+IOB02DYDcEhwEm3ZFQKBgQDij1ZeX4GvB44LxUnZ\n8ssz/laqscDJrLOAT/Nvj8589IyygAtE9rBPFNMu2YewDYV0lDkeSgK4HkWdYfzd\nw6bU6ES6mdHfRMH8h71qOVb5H//VviZmc4Wtvmkys6bGPnU25kOjklRm0HAo3uU1\njOcRBLeusjpx4oCJyDedYffqHQKBgQDP3hW76eRYfMe9XNVZConx58KpiI5Ox5BB\nsspX3umLzhxqCQsmJHanfAIfMB1SWzzD6UrySwFOhVhQNAfkvtOgbzrR9uf2I5DT\noUgvndmgX4hHqWiC1cahqPKzQb8DDTpcgS27igL8htIMMjDOSq01O/Prgio5vQ0a\nPgyvdn4aDQKBgDU75thf6pHc3ZSIc9ThRrvdzDFpeNoqWTcSEiopiSQ1NgYPLhaz\nPDQouYJtnINSegQte8pRK5hljIfxaUAWY9HtDZEm6XhjqI0Uu/4EoRoCWdO4TT+P\nb16mugMu0UYNkO8oZcY+cNSDr4b68LKHfBe0mxBSUodF6Fv3jpHNXjpFAoGACDVg\n7lbCKaxjxtqPokCESgU47rDxzbKbw7xnuSiYWGj/PkC1LABsnxiKjOi9f68Sqznf\nN8o2dv9VCXXEigfvG3rI+9mgN1wYMANCcn7tRSQAobPS6LfAbEnbq7CA9oHjOBvx\nzmIY1BgO22RwAPV5+YwwibBOMpGAnvSsU5F+UVECgYAwjC9G0b8cMVDm0/zpoU7X\n/1DzDz2MNh2rd482nY7zC0dy2MOqsod1iVfZz2s70Ka56qA0EAv8Rrx0wWjR4wDX\ntQWNHpYIxGHL5qxROg7vb8pQRXmrTd/hEJmXfua35Z0iXo1IQtAvNJR5pFiy+b56\nPWwEbQlzMUw7satWCU4Nwg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bitrix@lunar-prism-347712.iam.gserviceaccount.com",
+  "client_id": "117710086642133856991",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bitrix%40lunar-prism-347712.iam.gserviceaccount.com"
+}
